@@ -16,6 +16,7 @@
 		7011769022F05B6C0078031B /* CustomTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7011768F22F05B6C0078031B /* CustomTimer.swift */; };
 		703D5D0522FBFDC400A79143 /* CustomLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703D5D0422FBFDC400A79143 /* CustomLoader.swift */; };
 		703D5D2A22FD77FF00A79143 /* AnimateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703D5D2922FD77FF00A79143 /* AnimateViewController.swift */; };
+		7071D42323FE9EBF0091DD77 /* WebLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7071D42223FE9EBF0091DD77 /* WebLoader.swift */; };
 		70BFFE6422F0602400996795 /* TimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BFFE6322F0602400996795 /* TimerViewController.swift */; };
 		70FFE58723015D6500035C99 /* SpinnerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FFE58623015D6500035C99 /* SpinnerView.swift */; };
 /* End PBXBuildFile section */
@@ -32,6 +33,7 @@
 		7011768F22F05B6C0078031B /* CustomTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTimer.swift; sourceTree = "<group>"; };
 		703D5D0422FBFDC400A79143 /* CustomLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLoader.swift; sourceTree = "<group>"; };
 		703D5D2922FD77FF00A79143 /* AnimateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateViewController.swift; sourceTree = "<group>"; };
+		7071D42223FE9EBF0091DD77 /* WebLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebLoader.swift; sourceTree = "<group>"; };
 		70BFFE6322F0602400996795 /* TimerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerViewController.swift; sourceTree = "<group>"; };
 		70FFE58623015D6500035C99 /* SpinnerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinnerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -66,6 +68,7 @@
 		7011767C22F017520078031B /* sample */ = {
 			isa = PBXGroup;
 			children = (
+				7071D42223FE9EBF0091DD77 /* WebLoader.swift */,
 				7011767D22F017520078031B /* AppDelegate.swift */,
 				7011767F22F017520078031B /* ViewController.swift */,
 				7011768122F017520078031B /* Main.storyboard */,
@@ -158,6 +161,7 @@
 				7011769022F05B6C0078031B /* CustomTimer.swift in Sources */,
 				700B2E16230E5FC100DC35F1 /* PaypalLoader.swift in Sources */,
 				7011768022F017520078031B /* ViewController.swift in Sources */,
+				7071D42323FE9EBF0091DD77 /* WebLoader.swift in Sources */,
 				7011767E22F017520078031B /* AppDelegate.swift in Sources */,
 				703D5D0522FBFDC400A79143 /* CustomLoader.swift in Sources */,
 				70FFE58723015D6500035C99 /* SpinnerView.swift in Sources */,
